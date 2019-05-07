@@ -1,0 +1,6 @@
+classes=5
+train=data/train.txt
+valid=data/test.txt
+names=data/five_class.names
+backup=backup/
+eval=coco
